@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rhiadc;
 - 👀 I’m interested in <strong>backend development</strong>, <strong>concurrent</strong> and <strong> functional programming</strong>;
-- 🌱 I’m currently working with <strong>Elixir, Phoenix, OTP, Postgres</strong> and <strong>Golang</strong>. I'm also very interested in <strong>Erlang</strong>;
+- 🌱 I’m currently working with <strong>Golang</strong>. I'm also very interested in <strong>Erlang</strong> and <strong>Elixir</strong>;
 - 📫 How to reach me: rhiad.ciccoli@gmail.com;
 - 🍃 Check out my personal blog: https://rhiadc.github.io/blog/; <br/>
 
