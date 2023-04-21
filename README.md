@@ -13,7 +13,7 @@
   <a href = "mailto:rhiad.ciccoli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rhiadciccoli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- [![My Skills](https://skillicons.dev/icons?i=aws,bash,kubernetes,docker,gitlab,git,go,linux,postgresql)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=aws,go,elixir,bash,kubernetes,docker,gitlab,git,linux,postgresql,prometheus)](https://skillicons.dev)
  
  
 </div>
